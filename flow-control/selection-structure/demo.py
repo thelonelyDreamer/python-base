@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 a=1
 while(a<7):
     if(a%2==0):
